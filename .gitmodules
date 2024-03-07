@@ -4,4 +4,4 @@
 
 [submodule "salt/dotfiles"]
 	path = salt/dotfiles
-	url = ../dotfiles/
+	url = https://github.com/inventasoft-jit/dotfiles
